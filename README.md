@@ -1,5 +1,5 @@
 
-== xmsnes-bin ==
+# xmsnes-bin
 
 Cygwin compiled binaries of osoumen's version of XMSNES (https://github.com/osoumen/XMSNES)
 
